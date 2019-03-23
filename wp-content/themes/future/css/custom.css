@@ -1,0 +1,11 @@
+.logged-in nav
+{
+	position: absolute;
+	top: 30px;
+}
+
+.footerMenu li
+{
+	display: inline-table;
+	margin-right: 10px;
+}
